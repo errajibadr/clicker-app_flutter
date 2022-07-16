@@ -1,0 +1,5 @@
+{
+  "homepage_namefield": "insert your name",
+  "homepage_nouserwarning": "error : you must insert your name",
+  "homepage_score": "your score is {score}, continue clicking"
+}
