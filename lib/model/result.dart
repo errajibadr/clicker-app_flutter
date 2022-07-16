@@ -1,4 +1,5 @@
 class Result extends Comparable {
+  // this is my update
   final String playerName;
   int _score;
   bool _isRunningScore = false;
